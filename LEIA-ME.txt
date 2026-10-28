@@ -1,0 +1,14 @@
+ComfortStudy | Para Mo
+
+Conteúdo:
+- index.html: estrutura e textos
+- style.css: visual roxo e azul, responsividade e animações
+- script.js: caixa surpresa, mensagens interativas e controle para celular
+- karine_cutout.png: foto recortada de Karine, que aparece ao abrir a caixa
+
+O site foi configurado para mostrar a experiência apenas em telas de celular (até 760 px de largura). Em computadores, aparece um aviso para abrir pelo telefone.
+
+Como publicar:
+1. Extraia o ZIP.
+2. Envie TODOS os arquivos para a raiz do repositório GitHub (incluindo karine_cutout.png).
+3. Ative GitHub Pages em Settings > Pages > Deploy from a branch > main > /(root).
